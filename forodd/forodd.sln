@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forodd", "forodd\forodd.csproj", "{C59E886B-3BE2-4901-8849-537F66945C84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C59E886B-3BE2-4901-8849-537F66945C84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59E886B-3BE2-4901-8849-537F66945C84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59E886B-3BE2-4901-8849-537F66945C84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59E886B-3BE2-4901-8849-537F66945C84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7014B5E4-B031-43F9-BD24-4F1B83208254}
+	EndGlobalSection
+EndGlobal
